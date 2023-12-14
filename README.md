@@ -6,7 +6,21 @@
 
  <h2> 📌 Overview   </h2>
 
-Este projeto se refere a um relatório de vendas de uma empresa ficticia a solicitação do time de negócios, foi uma visao com as seguintes informações, 
+O projeto em questão é um estudo abrangente do desempenho de vendas de uma corporação simulada, criado em resposta a um pedido específico da equipe de negócios. A análise detalhada inclui diversas métricas de faturamento e lucro (profit), delineando o sucesso financeiro da empresa através de várias dimensões e períodos de tempo.
+
+Para o faturamento, o relatório apresenta:
+
+Faturamento Mensal: Avaliação da receita gerada mês a mês, identificando tendências e padrões sazonais.
+Faturamento por Segmento: Análise da receita de acordo com diferentes linhas de negócio ou categorias de clientes.
+Faturamento por Produto: Detalhamento da receita obtida por cada produto, ajudando a destacar os mais rentáveis.
+Faturamento por País: Visão geográfica do faturamento, essencial para estratégias de expansão e localização.
+Complementarmente, são analisados os lucros (profit), crucial para entender a rentabilidade:
+
+Profit por Ano: Visão anual do lucro, permitindo comparação entre diferentes anos fiscais.
+Profit por Trimestre: Avaliação mais granular do lucro, capturando a eficiência operacional em intervalos de três meses.
+Profit por Segmento: Entendimento de qual segmento de negócio é mais rentável.
+Profit por Produto: Insight sobre a margem de lucro por produto, vital para o planejamento de produção e marketing.
+Profit por País: Análise do lucro em diferentes mercados, orientando a alocação de recursos e a estratégia global. 
 
 
    Base de dados:(https://app.powerbi.com/links/kwrmu4nf15?ctid=3e29e08c-3085-4363-aa91-1713dda9438a&pbi_source=linkShare)
@@ -16,15 +30,8 @@ O resultado do código acima, retorna o dashboard que permiter enxergar de forma
 <br>
 <br>
 
-![Captura de Tela 2023-12-12 às 15 07 28](https://github.com/Cleitoncsb/Analise-de-Dados-de-uma-Cafeteria-com-Python/assets/142935223/c0b095c6-2ca3-4365-a423-0cf1bdec486e)
+![Captura de Tela 2023-12-14 às 10 34 58](https://github.com/Cleitoncsb/Desafio-de-projeto-dioPowerBI/assets/142935223/bc1af74a-d4c2-48dc-9eb1-61630e4d68e8)
+![Captura de Tela 2023-12-14 às 10 35 59](https://github.com/Cleitoncsb/Desafio-de-projeto-dioPowerBI/assets/142935223/3fd3865d-b38f-4cc4-bb7e-d855f07a7292)
 
-Sabendo da necessidade de criar boas visões, também foi criada uma visão em Power BI, apresentando os mesmos dados. <br>
-Link para acesso do Dashboard em Power BI online. (https://app.powerbi.com/links/Nt3CQbKQz_?ctid=3e29e08c-3085-4363-aa91-1713dda9438a&pbi_source=linkShare)<br>
 
-<img width="614" alt="Analise Cafeteria PowerBi" src="https://github.com/Cleitoncsb/Analise-de-Dados-de-uma-Cafeteria-com-Python-e-PowerBI/assets/142935223/af11bed4-d127-4170-bb19-2d7f84d0e437">
 
-1. Tendências Mensais: A empresa demonstrou um crescimento exponencial de 200% nos primeiros seis meses e possui potencial para continuar crescendo.
-2. Desempenho por Dia da Semana: O resultado acumulado nos seis meses não apresentou variação relevante em relação aos dias da semana.
-3. Filiais: O desempenho das filiais tem se mostrado muito similar, com participações quase iguais entre elas.
-4. Produtos Populares: Apresentação dos produtos mais populares.
-5. Produtos com Maior Rentabilidade: Em relação aos produtos mais vendidos, alguns podem ser mais rentáveis mesmo não sendo os mais vendidos. Um exemplo disso é o Scone, o 5º produto em termos de faturamento, mas apenas o 10º mais vendido.<br>
