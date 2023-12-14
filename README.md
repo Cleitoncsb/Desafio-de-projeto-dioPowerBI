@@ -35,4 +35,21 @@ O resultado do código acima, retorna o dashboard que permiter enxergar de forma
 
 
 
+<h3>Faturamento Anual:</h3> A empresa gerou $118,7 milhões em receita, um indicador-chave de seu desempenho de vendas. Este valor é uma métrica bruta, antes de descontos e custos.
+<h3>Lucro (Profit):</h3> O lucro reportado é de $16,9 milhões, o que sugere uma margem de lucro saudável quando comparado ao faturamento total, mas também indica que os custos e descontos têm um impacto significativo na rentabilidade líquida.
+<h3>Descontos:</h3> Com $9,2 milhões em descontos oferecidos ao longo do ano, a empresa parece ter uma política agressiva de descontos, o que pode ser uma estratégia para impulsionar as vendas ou manter a competitividade no mercado.
+<h3>Custo dos Bens Vendidos (COGS):</h3> Os COGS elevados de $101,8 milhões apontam para custos significativos associados à produção ou aquisição dos produtos vendidos, o que pode ser uma área para busca de eficiências e redução de custos.
+<h3>Unidades Vendidas:</h3> Com 1,1 milhão de unidades vendidas, a empresa demonstra ter um volume de vendas substancial, o que pode indicar uma forte demanda de mercado ou uma base de clientes ampla.
+<h3>Tendência de Faturamento Mensal:</h3> A linha do tempo mostra flutuações mensais no faturamento, com picos em junho e dezembro. Isso pode refletir a sazonalidade do mercado ou o resultado de campanhas de marketing específicas.
+<h3>Faturamento por Segmento:</h3> O segmento "Government" lidera com $53 milhões, seguido por "Small Business" e "Enterprise", indicando que a empresa tem uma forte presença no mercado governamental e entre pequenas empresas.
+<h3>Faturamento por Produto:</h3> "Pasco" é o produto mais vendido, gerando $33 milhões, o que sugere que pode ser o carro-chefe da empresa. Produtos como "Velo" e "Amarilla" também contribuem significativamente para o faturamento.
+<h3>Distribuição Geográfica:</h3> Os Estados Unidos e a França aparecem como os principais mercados, seguidos por México, Canadá e Alemanha. Isso mostra a diversificação geográfica das vendas e pode indicar onde a empresa deve focar suas estratégias de expansão.
+
+<h2> Em relação ao profit, podemos concluir:</h2>
+<br>
+<h3>Lucro por País:</h3> A empresa apresenta uma visão comparativa do lucro por país entre os anos de 2013 e 2014, com uma diminuição visível no segundo ano. Isso pode indicar uma necessidade de revisão de estratégias de mercado internacional ou impactos de fatores externos.
+<h3>Lucro por Produto:</h3> "Pasco" lidera como o produto mais lucrativo, seguido por "VTT" e "Amarilla". Isso reflete o sucesso desses produtos no mercado e pode influenciar a alocação de recursos para desenvolvimento e marketing.
+<h3>Lucro por Segmento:</h3> O segmento "Government" gera o maior lucro, seguido por "Small Business". Isso pode sugerir uma forte relação comercial com o setor governamental e indica onde a empresa pode concentrar esforços de vendas e personalização de produtos.
+<h3>Lucro por Trimestre:</h3> Existe uma clara tendência sazonal com o lucro aumentando significativamente no último trimestre. Isso pode ser devido a fatores sazonais de mercado ou a uma estratégia de vendas eficaz durante esse período.
+
 
